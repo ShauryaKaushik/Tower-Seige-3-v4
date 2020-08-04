@@ -48,9 +48,12 @@ function draw(){
     background(backgroundImg);
 }
 
- else if(background("lightBlue")){
+ else{
+
+background("lightBlue")
 
  }
+
 
 
     noStroke();
